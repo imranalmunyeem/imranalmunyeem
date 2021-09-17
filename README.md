@@ -35,6 +35,8 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 
 <br>
 
+ <summary>Automation Tools</summary>
+
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=Appium&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
