@@ -5,9 +5,15 @@
 
 Skills: Web & Mobile Automation, API Testing, Load Testing, Security Testing, Database Testing
 
-- 🔭 I’m currently working on Software Quality Assurance 
-- 🌱 I’m currently learning the new things everyday 
-- 📫 How to reach me: ialmunyeem@gmail.com 
+- 🔭 I’m currently working at a Software Company.
+
+- 🌱 I’m currently learning the Security Testing in details.
+- 
+- 👨‍💻 All of my projects are available at [https://imranalmunyeem.github.io/Portfolio-Websites/index.html](https://imranalmunyeem.github.io/Portfolio-Websites/index.html)
+
+- 📫 How to reach me **ialmunyeem@gmail.com**
+
+- ⚡ Fun fact **I think I am lazy**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imranalmunyeem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imran-al-munyeem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imranalmunyeem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_badassgentleman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://imranalmunyeem.github.io/Portfolio-Websites/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/iam_imran)  
