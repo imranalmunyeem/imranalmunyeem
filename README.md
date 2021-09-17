@@ -51,4 +51,19 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 
 ![Profile views](https://gpvc.arturio.dev/imranalmunyeem)  
 
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/imran-al-munyeem/"><img alt="LinkedIn" src="https://img.shields.io/badge/imran-al-munyeem-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ialmunyeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ialmunyeem@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<br/>
+
+
+
+<br/>
+
+<!--
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+-->
