@@ -23,7 +23,7 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 ## 💼 Skill Sets
 
 <summary>Programming, Markup, and Database</summary>
-<br>
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)  
@@ -31,7 +31,6 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 ![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=4AB197)
 
 <br>
-
 <summary>Automation Tools</summary>
 
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
