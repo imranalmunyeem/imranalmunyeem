@@ -22,8 +22,12 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 
 ## 💼 Skill Sets
 
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=4AB197)
@@ -41,6 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 
+![](https://img.shields.io/badge/Tools-BugZilla-informational?style=flat&logo=BugZilla-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
