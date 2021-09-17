@@ -3,6 +3,11 @@
 
 ![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner2.jpg)
 <p><a href="https://www.buymeacoffee.com/imranalmunyeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imranalmunyeem" /></a></p><br><br>
+Hey there 👋
+
+I’m Imran, a full-stack QA Engineer, who specializes in Web and Mobile Automation. I make it my mission to test the profucts and find the bugs to make the perfect websites or applications that run blazing fast.
+
+Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.github.io/Portfolio-Websites/index.html)
 
 - 🔭 I’m currently working at a Software Company.
 
