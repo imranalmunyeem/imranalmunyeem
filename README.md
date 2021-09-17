@@ -10,7 +10,7 @@
 
  Just call me Imran, a Software Engineer, who specializes in Software Quality Assurance. Love to find the bugs through the passionate works.
 
-- ⚡ Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
+- 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
 
 - 🔭 Currently working at a [Software Company.](https://mediusware.com/)
 
