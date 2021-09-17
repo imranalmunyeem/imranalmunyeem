@@ -21,6 +21,7 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 - ⚡ Fun fact **I think I am lazy**
 
 ## 💼 Skill Sets
+<summary>Programming,Markup,Database</summary>
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
