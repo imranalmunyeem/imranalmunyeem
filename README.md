@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Engineer specialized in Software Quality Assurance</h3>
 
 ![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner1.jpg)
-
+<p><a href="https://www.buymeacoffee.com/imranalmunyeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imranalmunyeem" /></a></p><br><br>
 
 Skills: Web & Mobile Automation, API Testing, Load Testing, Security Testing, Database Testing
 
@@ -32,4 +32,4 @@ Skills: Web & Mobile Automation, API Testing, Load Testing, Security Testing, Da
 
 ![Profile views](https://gpvc.arturio.dev/imranalmunyeem)  
 
-<p><a href="https://www.buymeacoffee.com/imranalmunyeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imranalmunyeem" /></a></p><br><br>
+
