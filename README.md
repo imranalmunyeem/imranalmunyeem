@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Imran Al Munyeem</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Software Quality Assurance+Enginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Software+Quality+Assurance+Enginner)](https://git.io/typing-svg)
 
 
 ![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner2.jpg)
