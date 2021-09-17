@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Imran Al Munyeem</h1>
 <h3 align="center">I am a Software Engineer specialized in Software Quality Assurance</h3>
 
-![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner1.jpg)
+![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner2.jpg)
 <p><a href="https://www.buymeacoffee.com/imranalmunyeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imranalmunyeem" /></a></p><br><br>
 
 - 🔭 I’m currently working at a Software Company.
