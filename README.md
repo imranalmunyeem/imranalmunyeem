@@ -20,10 +20,8 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 
 ## 💼 Skill Sets
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
@@ -31,29 +29,23 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 <br>
 
-![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=Appium&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=Chai&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
 <br>
 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-BugZilla-informational?style=flat&logo=BugZilla-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Asana-informational?style=flat&logo=Asana&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Testlink-informational?style=flat&logo=Testlink&logoColor=white&color=4AB197) 
 ![](https://img.shields.io/badge/Tools-MSExcel-informational?style=flat&logo=MSExcel&logoColor=white&color=4AB197) 
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 </details>
 
 <br>
