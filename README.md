@@ -60,8 +60,8 @@ Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.git
 
 ## 📌 Pinned Repositories
 <br>
-<a href="https://github.com/imranalmunyeem/celt_abroad">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=celt_abroad&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/imranalmunyeem/Nopcommerce-Ecommerce-Automation">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=Nopcommerce-Ecommerce-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </a>
 
