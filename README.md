@@ -3,20 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Software+QA+Engineer.)](https://git.io/typing-svg)
 
 
-![I am a Software Engineer specialized in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner2.jpg)
+![I am a Software Engineer specializing in Software Quality Assurance.](https://github.com/imranalmunyeem/Portfolio-Websites/blob/main/img/banner2.jpg)
 <p><a href="https://www.buymeacoffee.com/imranalmunyeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imranalmunyeem" /></a></p><br><br>
 <br>
  Hey there 👋
 
- Just call me Imran, a Software Engineer, who specializes in Software Quality Assurance. Love to find the bugs through the passionate works.
+ Just call me Imran, a Software Engineer, who specializing in Software Quality Assurance. Love to find the bugs through the passionate works.
 
 - 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
 
-- 🔭 Currently working at a [Software Company.](https://mediusware.com/)
+- 🔭 Currently working at a [Software Company.](https://crusherslab.tech/) as a lead QA Engineer.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories)
 
-Want to know more about me? [Check out my portfolio.](https://imranalmunyeem.github.io/Portfolio-Websites/index.html)
+Want to know more about me? [Check out my portfolio.](https://www.imranalmunyeem.me/)
 
 ## 💼 Skill Sets
 
