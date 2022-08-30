@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://www.imranalmunyeem
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=4AB197)
