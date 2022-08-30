@@ -8,11 +8,15 @@
 <br>
  Hey there 👋
 
- Just call me Imran, a Software Engineer, who specializing in Software Quality Assurance. Love to find the bugs through the passionate works.
+ Just call me Imran, a Software Engineer, who's specializing in Software Quality Assurance.
+
+- 🔭 Currently working at a [Software Company.](https://crusherslab.tech/) as a Senior QA Engineer.
+
+- 🔭 Working as a freelancer on [Fiverr.](https://www.fiverr.com/munyeem) also.
+
+- 🔭 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
-
-- 🔭 Currently working at a [Software Company.](https://crusherslab.tech/) as a lead QA Engineer.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories)
 
