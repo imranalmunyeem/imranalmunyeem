@@ -4,7 +4,7 @@
 
 - 🔭 Currently working at [Crusherslab](https://crusherslab.tech/) as a Senior QA Engineer.
 
-- 🔭 Working as a freelancer on [Fiverr.](https://www.fiverr.com/munyeem).
+- 🔭 Working as a freelancer on [Fiverr](https://www.fiverr.com/munyeem).
 
 - 🔭 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
