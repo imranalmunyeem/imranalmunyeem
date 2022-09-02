@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Software+Test+Engineer.)](https://git.io/typing-svg)
 
-
-
 <br>
  Hey there 👋
 
