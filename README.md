@@ -14,7 +14,7 @@
 
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
 
-## 💼 Skill Sets
+## 💼 Technologies
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -34,27 +34,27 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
 <br>
 
-### API Testing Tools
+#### API Testing Tools
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 
-### Load Testing Tools
+#### Load Testing Tools
 ![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=JMeter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-BlazeMeter-informational?style=flat&logo=BlazeMeter&logoColor=white&color=4AB197)
 
-### Security Testing Tools
+#### Security Testing Tools
 ![](https://img.shields.io/badge/Tools-OwaspZap-informational?style=flat&logo=OwaspZap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=BurpSuite&logoColor=white&color=4AB197)
 
-### Operating System
+#### Operating System
 ![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=4AB197)
 
-### Test case management & Bug Tracking Tools
+#### Test case management & Bug Tracking Tools
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-MSExcel-informational?style=flat&logo=MSExcel&logoColor=white&color=4AB197) 
 
-### CI/CD, Version Controlling Tools
+#### CI/CD, Version Controlling Tools
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 </details>
