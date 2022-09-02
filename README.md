@@ -19,7 +19,10 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
+
+#### Databases:
+![](https://img.shields.io/badge/Code-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=4AB197)
