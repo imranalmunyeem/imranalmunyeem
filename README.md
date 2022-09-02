@@ -1,15 +1,12 @@
-<h2 align="center">Hi 👋, I'm Imran Al Munyeem</h2>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Software+Test+Engineer.)](https://git.io/typing-svg)
 
-<br>
  Hey there 👋
 
- Just call me Imran, a Software Engineer, who's specializing in Software Quality Assurance.
+ Just call me Imran, A Software Test Engineer with 3 years of solid industry experience.
 
-- 🔭 Currently working at a [Software Company.](https://crusherslab.tech/) as a Senior QA Engineer.
+- 🔭 Currently working at [Crusherslab.](https://crusherslab.tech/) as a Senior QA Engineer.
 
-- 🔭 Working as a freelancer on [Fiverr.](https://www.fiverr.com/munyeem) also.
+- 🔭 Working as a freelancer on [Fiverr.](https://www.fiverr.com/munyeem).
 
 - 🔭 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
@@ -17,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories)
 
-Want to know more about me? [Check out my portfolio.](https://www.imranalmunyeem.me/)
+Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
 
 ## 💼 Skill Sets
 
