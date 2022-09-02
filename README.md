@@ -4,7 +4,7 @@
 
  Just call me Imran, A Software Test Engineer with 3 years of solid industry experience.
 
-- 🔭 Currently working at [Crusherslab.](https://crusherslab.tech/) as a Senior QA Engineer.
+- 🔭 Currently working at [Crusherslab](https://crusherslab.tech/) as a Senior QA Engineer.
 
 - 🔭 Working as a freelancer on [Fiverr.](https://www.fiverr.com/munyeem).
 
