@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Software+Test+Engineer.)](https://git.io/typing-svg)
-
- Hey there 👋
+# Hey there 👋
 
  Just call me Imran, A Software Test Engineer with 3 years of solid industry experience.
 
