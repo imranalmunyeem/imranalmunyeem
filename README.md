@@ -133,19 +133,6 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 </a>
 <br>
 
-## &#x1f4c8; Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imranalmunyeem)](https://github.com/ryo-ma/github-profile-trophy)
-
-## &#x1f4c8; Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imranalmunyeem)  
-
-## &#x1f4c8; Streak Count
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imranalmunyeem)  
-
-
 ## &#x1f4c8; Business or Query
 
 <p align="center">
