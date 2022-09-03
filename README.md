@@ -72,6 +72,8 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 
 <br>
 
+## Research 
+- (2021) [Research and Development of Multipurpose Unmanned Aerial Vehicle (Flying Drone)](https://ieeexplore.ieee.org/document/9666736)) 
 ## 📌 Pinned Repositories
 <br>
 <a href="https://github.com/imranalmunyeem/Nopcommerce-Ecommerce-Automation">
