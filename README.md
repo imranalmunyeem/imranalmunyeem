@@ -14,7 +14,7 @@
 
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
 <br/>
-### Business or Query?
+##### Business or Query?
 <p align="center">
 <a href="mailto:ialmunyeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ialmunyeem@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
