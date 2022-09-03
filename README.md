@@ -12,7 +12,7 @@
 
 - 💻 Hire me on [Fiverr](https://www.fiverr.com/munyeem).
 
-Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
+Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/) <br>
 📧 Got business or any query? [Send me an Email](ialmunyeem@gmail.com).
 
 ## 💻 Technologies
