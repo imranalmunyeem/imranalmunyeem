@@ -13,6 +13,12 @@
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/) <br>
 📧 Got business or any query? [ialmunyeem@gmail.com](ialmunyeem@gmail.com)
 
+## 💼 Skill Sets
+- Requirement analysis, Design UML Diagram & Flowchart.
+- Design and write test strategy, test plan, and test cases.
+- Web User Interface Testing, API Testing, Load Testing.
+- Web Penetration Testing.
+
 ## 💻 Technologies
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
