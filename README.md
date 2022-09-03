@@ -76,7 +76,7 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 
 <br>
 
-## Research 
+## 👨 Research 
 - (2021) [Research and Development of Multipurpose Unmanned Aerial Vehicle (Flying Drone)](https://ieeexplore.ieee.org/document/9666736).
 
 ## 🎓 Education
@@ -85,7 +85,7 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ## 💼 Hire me
 - [Fiverr](https://www.fiverr.com/munyeem)
 - 
-## 💁How to Reach me
+## 💁 How to Reach me
 - [Linkedin](https://www.linkedin.com/in/imran-al-munyeem/)
 - [Website](https://www.imranalmunyeem.me/)
 - [Email](ialmunyeem@gmail.com)
