@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
-- 💻 Hire me on [Fiverr](https://www.fiverr.com/munyeem).
-
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/) <br>
 📧 Got business or any query? [ialmunyeem@gmail.com](ialmunyeem@gmail.com)
 
@@ -84,6 +82,9 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ## 🎓 Education
 - (2013-2020) Bachelor's of Science in Computer Science & Engineering 
 
+## 💼 Hire me
+- [Fiverr](https://www.fiverr.com/munyeem)
+- 
 ## 💁How to Reach me
 - [Linkedin](https://www.linkedin.com/in/imran-al-munyeem/)
 - [Website](https://www.imranalmunyeem.me/)
