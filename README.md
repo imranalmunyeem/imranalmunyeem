@@ -4,13 +4,13 @@
 
 - 💻 Currently working at [Crusherslab](https://crusherslab.tech/) as a Senior QA Engineer.
 
-- 💻 Working as a freelancer on [Fiverr](https://www.fiverr.com/munyeem).
-
 - 💻 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
+
+- 💻 Hire me on [Fiverr](https://www.fiverr.com/munyeem).
 
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
 
