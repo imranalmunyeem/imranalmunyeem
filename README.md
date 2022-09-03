@@ -16,7 +16,9 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ## 💼 Skill Sets
 - Requirement analysis, Design UML Diagram & Flowchart.
 - Design and write test strategy, test plan, and test cases.
-- Web User Interface Testing, API Testing, Load Testing.
+- Web User Interface Testing.
+- API Testing.
+- Load Testing.
 - Web Penetration Testing.
 
 ## 💻 Technologies
