@@ -14,7 +14,7 @@
 
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
 <br/>
-#### Business or Query?
+#### Any Business or Query? 
 <p align="center">
 <a href="mailto:ialmunyeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ialmunyeem@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
@@ -154,18 +154,3 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 </a>
 <br>
 
-## &#x1f4c8; Business or Query
-
-<p align="center">
-<a href="mailto:ialmunyeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ialmunyeem@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<br/>
-
-
-
-<br/>
-
-<!--
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
--->
