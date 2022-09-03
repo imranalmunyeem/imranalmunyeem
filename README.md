@@ -13,8 +13,9 @@
 - 💻 Hire me on [Fiverr](https://www.fiverr.com/munyeem).
 
 Want to know more about me? [Check out my portfolio website.](https://www.imranalmunyeem.me/)
+📧 Got business or any query? [Send me an Email](ialmunyeem@gmail.com).
 
-## 💼 Technologies
+## 💻 Technologies
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
