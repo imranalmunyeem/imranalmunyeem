@@ -48,6 +48,7 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ![](https://img.shields.io/badge/Tools-Netcraft-informational?style=flat&logo=Netcraft&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Maltego-informational?style=flat&logo=Maltego&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Robotex-informational?style=flat&logo=Robotex&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-BeEF-informational?style=flat&logo=BeEF&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-OwaspZap-informational?style=flat&logo=OwaspZap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=BurpSuite&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=Wireshark&logoColor=white&color=4AB197)
