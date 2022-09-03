@@ -76,6 +76,11 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ## 🎓 Education
 - (2013-2020) Bachelor's of Science in Computer Science & Engineering 
 
+## 💁How to Reach me
+- [Linkedin](https://www.linkedin.com/in/imran-al-munyeem/)
+- [Website](https://www.imranalmunyeem.me/)
+- [Email](ialmunyeem@gmail.com)
+
 ## 📌 Pinned Repositories
 <br>
 <a href="https://github.com/imranalmunyeem/Nopcommerce-Ecommerce-Automation">
