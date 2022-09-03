@@ -42,12 +42,21 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ![](https://img.shields.io/badge/Tools-BlazeMeter-informational?style=flat&logo=BlazeMeter&logoColor=white&color=4AB197)
 
 #### Security Testing Tools
+![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Metasploite-informational?style=flat&logo=Metasploite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Whoislookup-informational?style=flat&logo=Whoislookup&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netcraft-informational?style=flat&logo=Netcraft&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Maltego-informational?style=flat&logo=Maltego&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Robotex-informational?style=flat&logo=Robotex&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-OwaspZap-informational?style=flat&logo=OwaspZap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=BurpSuite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=Wireshark&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=Nmap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-SQLmap-informational?style=flat&logo=SQLmap&logoColor=white&color=4AB197)
 
 #### Operating System
 ![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=4AB197)
+
 
 #### Test case management & Bug Tracking Tools
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
