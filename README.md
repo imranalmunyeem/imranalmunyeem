@@ -6,8 +6,6 @@
 
 - 💻 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
-- 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
 - 💻 Hire me on [Fiverr](https://www.fiverr.com/munyeem).
@@ -74,6 +72,10 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 
 ## Research 
 - (2021) [Research and Development of Multipurpose Unmanned Aerial Vehicle (Flying Drone)](https://ieeexplore.ieee.org/document/9666736).
+
+## 🎓 Education
+- (2013-2020) Bachelor's of Science in Computer Science & Engineering 
+
 ## 📌 Pinned Repositories
 <br>
 <a href="https://github.com/imranalmunyeem/Nopcommerce-Ecommerce-Automation">
