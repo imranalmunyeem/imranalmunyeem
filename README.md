@@ -2,11 +2,11 @@
 
  Just call me Imran, A Software Test Engineer with 3 years of solid industry experience.
 
-- 🔭 Currently working at [Crusherslab](https://crusherslab.tech/) as a Senior QA Engineer.
+- 💻 Currently working at [Crusherslab](https://crusherslab.tech/) as a Senior QA Engineer.
 
-- 🔭 Working as a freelancer on [Fiverr](https://www.fiverr.com/munyeem).
+- 💻 Working as a freelancer on [Fiverr](https://www.fiverr.com/munyeem).
 
-- 🔭 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
+- 💻 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 🎓 Completed my Bachelor's Degree in Computer Science from [North South University](http://www.northsouth.edu/)
 
