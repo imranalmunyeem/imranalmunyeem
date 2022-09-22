@@ -41,6 +41,7 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 
 #### API Testing Tools
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-RestAssured-informational?style=flat&logo=RestAssured&logoColor=white&color=4AB197)
 
 #### Load Testing Tools
 ![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=JMeter&logoColor=white&color=4AB197)
