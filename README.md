@@ -1,6 +1,6 @@
 # Hey there 👋
 
- Just call me Imran, A Software Test Engineer with 3 years of solid industry experience.
+A Software Test Engineer with 3 years of solid industry experience.
 
 - 💻 Currently working on [Fiverr](https://www.fiverr.com/munyeem) as a freelancer.
 
