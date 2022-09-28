@@ -15,6 +15,7 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 - Requirement analysis, Design UML Diagram & Flowchart.
 - Design and write test strategy, test plan, and test cases.
 - Web User Interface Testing.
+- Android Application Testing.
 - API Testing.
 - Load Testing.
 - Web Penetration Testing.
@@ -22,8 +23,9 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ## 💻 Technologies
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+
 
 #### Databases
 ![](https://img.shields.io/badge/Code-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=4AB197)
@@ -37,6 +39,10 @@ Want to know more about me? [Check out my portfolio website.](https://www.imrana
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-TestNG-informational?style=flat&logo=TestNG&logoColor=white&color=4AB197) 
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
+<br>
+
+#### Android automation tools
+![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=Appium&logoColor=white&color=4AB197)
 <br>
 
 #### API Testing Tools
