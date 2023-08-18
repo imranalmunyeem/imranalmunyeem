@@ -94,6 +94,6 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 
 ## 💁 How to Reach me
 - [Linkedin](https://www.linkedin.com/in/imran-al-munyeem/)
-- [Website](https://imranalmunyeem.github.io/imran/)https://imranalmunyeem.github.io/imran/)
+- [Website](https://imranalmunyeem.github.io/imran/)
 - [Email](ialmunyeem@gmail.com)
 
