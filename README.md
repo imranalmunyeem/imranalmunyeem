@@ -23,13 +23,11 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 ## 💻 Technologies
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 
 
 #### Databases
 ![](https://img.shields.io/badge/Code-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 <br>
 
 #### Web UI Automation Tools/Frameworks/Library
@@ -37,38 +35,16 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=Chai&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-TestNG-informational?style=flat&logo=TestNG&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
-<br>
-
-#### Android automation tools
-![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=Appium&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-beautifulSoup-informational?style=flat&logo=TestNG&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Test-Scrapy-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
 <br>
 
 #### API Testing Tools
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-RestAssured-informational?style=flat&logo=RestAssured&logoColor=white&color=4AB197)
 
 #### Load Testing Tools
 ![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=JMeter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-BlazeMeter-informational?style=flat&logo=BlazeMeter&logoColor=white&color=4AB197)
-
-#### Security Testing Tools
-![](https://img.shields.io/badge/Tools-KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Metasploite-informational?style=flat&logo=Metasploite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Whoislookup-informational?style=flat&logo=Whoislookup&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netcraft-informational?style=flat&logo=Netcraft&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Maltego-informational?style=flat&logo=Maltego&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Robotex-informational?style=flat&logo=Robotex&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-BeEF-informational?style=flat&logo=BeEF&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-OwaspZap-informational?style=flat&logo=OwaspZap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=BurpSuite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=Wireshark&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=Nmap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SQLmap-informational?style=flat&logo=SQLmap&logoColor=white&color=4AB197)
-
-#### Operating System
-![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
 
 #### Test case management & Bug Tracking Tools
