@@ -8,7 +8,7 @@ A Software Test Engineer with 3 years of solid industry experience.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
-Want to know more about me? [Check out my portfolio website.](https://imranalmunyeem.info) <br>  /
+Want to know more about me? [Check out my portfolio website.](https://imranalmunyeem.netlify.app/) <br>  /
 📧 Got business or any query? [ialmunyeem@gmail.com](ialmunyeem@gmail.com)
 
 ## 💼 Skill Sets
