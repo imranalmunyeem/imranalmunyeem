@@ -1,10 +1,10 @@
 # Hey there 👋
 
-A Software Test Engineer with 3 years of solid industry experience.
+A Software Test Engineer with 4 years of solid industry experience.
 
-- 💻 Currently working on [Fiverr](https://www.fiverr.com/munyeem) as a freelancer.
-
-- 💻 Previously used to work as a Software Test Engineer at [Medusware](https://mediusware.com/) and [Somikoron ITS](http://www.somikoronits.com/).
+- 💻 Currently working at [Husbella](https://www.husbella.co.uk/) as a Software Engineer.
+- You can hire me as a freelancer on [Fiverr](https://www.fiverr.com/munyeem) 
+- 💻 Previously used to work as a Software Test Engineer at [Marjories Education](https://marjorieseducation.co.uk/), [Medusware](https://mediusware.com/), [CrusherslabQA](https://www.crusherslabqa.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
@@ -15,7 +15,6 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 - Requirement analysis, Design UML Diagram & Flowchart.
 - Design and write test strategy, test plan, and test cases.
 - Web User Interface Testing.
-- Android Application Testing.
 - API Testing.
 - Load Testing.
 - Web Penetration Testing.
