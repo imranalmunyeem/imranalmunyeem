@@ -1,9 +1,9 @@
 # Hey there 👋
 
-A Software Test Engineer with 4 years of solid industry experience.
+A Software Test Engineer with 4 years of solid experience.
 
-- 💻 Currently working at [Husbella](https://www.husbella.co.uk/) as a Software Engineer.
-- You can hire me as a freelancer on [Fiverr](https://www.fiverr.com/munyeem) 
+- 💻 Currently working as a freelancer Software Test Engineer.
+- You can hire me as a freelancer on [Fiverr](https://www.fiverr.com/munyeem) or [Upwork](https://www.upwork.com/freelancers/~01f394e8c433823753)
 - 💻 Previously used to work as a Software Test Engineer at [Marjories Education](https://marjorieseducation.co.uk/), [Medusware](https://mediusware.com/), [CrusherslabQA](https://www.crusherslabqa.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
