@@ -1,6 +1,6 @@
 # Hey there 👋
 
-A Software Test Engineer with 4 years of solid experience.
+I am A Software Test Engineer with 4 years of solid experience.
 
 - 💻 Currently working as a freelancer Software Test Engineer.
 - You can hire me as a freelancer on [Fiverr](https://www.fiverr.com/munyeem) or [Upwork](https://www.upwork.com/freelancers/~01f394e8c433823753)
@@ -12,9 +12,7 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 📧 Got business or any query? [ialmunyeem@gmail.com](ialmunyeem@gmail.com)
 
 ## 💼 Skill Sets
-- Requirement analysis, Design UML Diagram & Flowchart.
-- Design and write test strategy, test plan, and test cases.
-- Web User Interface Testing.
+- Web UI Testing.
 - API Testing.
 - Load Testing.
 - Web Penetration Testing.
@@ -31,11 +29,7 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 
 #### Web UI Automation Tools/Frameworks/Library
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=Chai&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-beautifulSoup-informational?style=flat&logo=TestNG&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Test-Scrapy-informational?style=flat&logo=Cucumber&logoColor=white&color=4AB197) 
 <br>
 
 #### API Testing Tools
@@ -62,13 +56,16 @@ Want to know more about me? [Check out my portfolio website.](https://imranalmun
 - (2021) [Research and Development of Multipurpose Unmanned Aerial Vehicle (Flying Drone)](https://ieeexplore.ieee.org/document/9666736).
 
 ## 🎓 Education
-- (2013-2020) Bachelor's of Science in Computer Science & Engineering 
+- (2013-2020) Bachelor's of Science in Computer Science & Engineering
+- (2023-2024) Masters's of Science in Software Engineering & its Applications 
+
 
 ## 💼 Hire me
+- [Upwork](https://www.upwork.com/freelancers/~01f394e8c433823753)
 - [Fiverr](https://www.fiverr.com/munyeem)
 
-## 💁 How to Reach me
+## 💁 How to Reach out to me
 - [Linkedin](https://www.linkedin.com/in/imran-al-munyeem/)
 - [Website](https://imranalmunyeem.netlify.app/)
-- [Email](ialmunyeem@gmail.com)
+- [Email](munyeem.freelancer@gmail.com)
 
