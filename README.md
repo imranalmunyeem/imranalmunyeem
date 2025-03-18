@@ -2,13 +2,13 @@
 
 I am A Software Test Engineer with 4 years of solid experience.
 
-- 💻 Currently working as a freelancer Software Test Engineer.
+- 💻 Currently working as Contractual and freelance Software Test Engineer.
 - You can hire me as a freelancer on [Fiverr](https://www.fiverr.com/munyeem) or [Upwork](https://www.upwork.com/freelancers/~01f394e8c433823753)
 - 💻 Previously used to work as a Software Test Engineer at [Marjories Education](https://marjorieseducation.co.uk/), [Medusware](https://mediusware.com/), [CrusherslabQA](https://www.crusherslabqa.com/) and [Somikoron ITS](http://www.somikoronits.com/).
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
-Want to know more about me? [Check out my portfolio website.](https://munyeem.netlify.app/) <br>  /
+Want to know more about me? [Check out my portfolio website.](munyeem.netlify.app) <br>  /
 📧 Got business or any query? [munyeem.freelancer@gmail.com](munyeem.freelancer@gmail.com)
 
 ## 💼 Skill Sets
@@ -29,6 +29,7 @@ Want to know more about me? [Check out my portfolio website.](https://munyeem.ne
 
 #### Web UI Automation Tools/Frameworks/Library
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=Playwright&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
 <br>
 
