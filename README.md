@@ -19,7 +19,7 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 
 ## 💻 Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
@@ -44,7 +44,11 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 ![Scapy](https://img.shields.io/badge/Scapy-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Shodan](https://img.shields.io/badge/Shodan-D22128?style=for-the-badge&logo=shodan&logoColor=white)
 
-  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
 
 <br>
 
