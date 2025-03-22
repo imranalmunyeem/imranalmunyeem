@@ -8,18 +8,16 @@ I am A Software Test Engineer with 4 years of solid experience.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/imranalmunyeem?tab=repositories).
 
-Want to know more about me? [Check out my portfolio website.](munyeem.netlify.app) <br>  /
+Want to know more about me? [Check out my portfolio website.](https://munyeem.netlify.app)
 📧 Got business or any query? [munyeem.freelancer@gmail.com](munyeem.freelancer@gmail.com)
 
 ## 💼 Skill Sets
 - Web UI Testing.
 - API Testing.
-- Load Testing.
+- Performance Testing.
 - Web Penetration Testing.
 
 ## 💻 Tools & Technologies
-
-## 🧪 My Test Stack
 
 #### 👨‍💻 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -55,6 +53,43 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 <br>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/imranalmunyeem/saucedemo-e2e-cypress">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=saucedemo-e2e-cypress&theme=tokyonight" alt="saucedemo-e2e-cypress" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/imranalmunyeem/The-Hunt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=The-Hunt&theme=tokyonight" alt="The-Hunt" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/imranalmunyeem/Testmind">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=Testmind&theme=tokyonight" alt="Testmind" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/imranalmunyeem/Restful_booker-APIs-Cypress">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=Restful_booker-APIs-Cypress&theme=tokyonight" alt="Restful_booker-APIs-Cypress" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/imranalmunyeem/OverloadX">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=OverloadX&theme=tokyonight" alt="OverloadX" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranalmunyeem&show_icons=true&theme=tokyonight)
