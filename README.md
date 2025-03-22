@@ -20,46 +20,31 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 ## 💻 Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![BlazeMeter](https://img.shields.io/badge/BlazeMeter-CA2132?style=for-the-badge&logo=blazemeter&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-000000?style=for-the-badge&logo=locust&logoColor=white)
+
+
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-001528?style=for-the-badge&logo=OWASP&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+
+
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Shodan](https://img.shields.io/badge/Shodan-D22128?style=for-the-badge&logo=shodan&logoColor=white)
+
   
-#### Programming Languages
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-
-
-#### Databases
-![](https://img.shields.io/badge/Code-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=4AB197)
-<br>
-
-#### Web UI Automation Tools/Frameworks/Library
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=Playwright&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
-<br>
-
-#### API Testing Tools
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-
-#### Load Testing Tools
-![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=JMeter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-BlazeMeter-informational?style=flat&logo=BlazeMeter&logoColor=white&color=4AB197)
-
-
-#### Test case management & Bug Tracking Tools
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-MSExcel-informational?style=flat&logo=MSExcel&logoColor=white&color=4AB197) 
-
-#### CI/CD, Version Controlling Tools
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-</details>
 
 <br>
 
