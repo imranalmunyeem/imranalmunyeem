@@ -87,8 +87,14 @@ Want to know more about me? [Check out my portfolio website.](https://munyeem.ne
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=OverloadX&theme=tokyonight" alt="OverloadX" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/imranalmunyeem/Selenium-Python-Hybrid-Framework-Design">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalmunyeem&repo=Selenium-Python-Hybrid-Framework-Design&theme=tokyonight" alt="Selenium-Python-Hybrid-Framework-Design" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 ## 📊 GitHub Stats
