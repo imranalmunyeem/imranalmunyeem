@@ -17,7 +17,7 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 - Load Testing.
 - Web Penetration Testing.
 
-## 💻 Technologies
+## 💻 Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,8 +49,15 @@ Want to know more about me? [Check out my portfolio website.](munyeem.netlify.ap
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-
 <br>
+
+## 📊 GitHub Stats
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranalmunyeem&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranalmunyeem&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranalmunyeem&theme=tokyonight)
+
 
 ## 👨 Research & Publication
 - (2021) [Research and Development of Multipurpose Unmanned Aerial Vehicle (Flying Drone)](https://ieeexplore.ieee.org/document/9666736).
