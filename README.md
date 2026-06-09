@@ -39,10 +39,6 @@ Alongside my research, I have several years of professional experience in Softwa
 ## 🚀 Current Research & Projects
 
 * Hybrid Cyber Range Architectures for Cyber-Physical Training Environments
-* TestMind – LLM-Assisted Multi-Framework Test Case Generation
-* AI-Augmented Security Test Generation
-* Security Automation and DevSecOps Research
-* OverloadX – Performance and Load Testing Platform
 
 ## 💻 Technical Expertise
 
