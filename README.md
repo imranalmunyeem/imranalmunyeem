@@ -24,6 +24,8 @@ Alongside my research, I have several years of professional experience in Softwa
 * PhD in Computer Science — Nottingham Trent University (2026–Present)
 * MSc in Software Engineering and Applications (Distinction) — University of Bedfordshire
 * BSc in Computer Science and Engineering — North South University
+* A-Level — Science
+* O-Level — Science
 
 ## 📖 Publications
 
@@ -68,7 +70,7 @@ LLMs • Prompt Engineering • Machine Learning Foundations • NLP
 
 * LinkedIn: https://www.linkedin.com/in/imran-al-munyeem
 * Portfolio: https://imranalmunyeem.netlify.app
-* ORCID: [Add ORCID]
+* ORCID: [0009-0007-3538-1172]
 * Google Scholar: [Add Scholar Profile]
 * Email: [munyeem.swe@gmail.com](mailto:munyeem.swe@gmail.com)
 
