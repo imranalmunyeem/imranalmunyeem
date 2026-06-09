@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am Imran Al Munyeem, a Fully Funded PhD Researcher in Computer Science at Nottingham Trent University, United Kingdom.
+I am Imran Al Munyeem, a PhD Researcher in Computer Science at Nottingham Trent University, United Kingdom.
 
 My research focuses on cybersecurity, cyber ranges, cyber-physical systems, and AI-assisted security testing. I am passionate about developing secure, scalable, and realistic cybersecurity training and experimentation environments that bridge academic research with real-world cyber resilience challenges.
 
