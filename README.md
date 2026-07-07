@@ -35,6 +35,10 @@ Alongside my research, I have several years of professional experience in Softwa
 
   * IEEE UEMCON 2021
   * DOI: 10.1109/UEMCON53757.2021.9666736
+ 
+* Intent-Preserving Regeneration of End-to-End Tests from DOM Changes Using Large Language Models
+
+  * ICCTA 2026
 
 ## 🚀 Current Research & Projects
 
