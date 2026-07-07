@@ -67,7 +67,7 @@ LLMs • Prompt Engineering • Machine Learning Foundations • NLP
 * LinkedIn: https://www.linkedin.com/in/imran-al-munyeem
 * Portfolio: https://imranalmunyeem.netlify.app
 * ORCID: [0009-0007-3538-1172]
-* Google Scholar: [Add Scholar Profile]
+* Google Scholar: [[Google Scholar](https://scholar.google.com/citations?user=b2R3NKsAAAAJ)]
 * Email: [munyeem.swe@gmail.com](mailto:munyeem.swe@gmail.com)
 
 I am always interested in collaborating on research, cybersecurity, AI, software testing, and open-source projects.
