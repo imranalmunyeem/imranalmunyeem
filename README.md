@@ -64,10 +64,11 @@ LLMs • Prompt Engineering • Machine Learning Foundations • NLP
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/imran-al-munyeem
-* Portfolio: https://imranalmunyeem.netlify.app
-* ORCID: [0009-0007-3538-1172]
-* Google Scholar: [[Google Scholar](https://scholar.google.com/citations?user=b2R3NKsAAAAJ)]
-* Email: [munyeem.swe@gmail.com](mailto:munyeem.swe@gmail.com)
+* ORCID Profile: [ORCID](https://orcid.org/0009-0007-3538-1172)]
+* Google Scholar Profile: [[Google Scholar](https://scholar.google.com/citations?user=b2R3NKsAAAAJ)]
+* ResearchGate Profile: [[ResearchGate](https://www.researchgate.net/profile/Imran-Al-Munyeem-2?ev=hdr_xprf)]
+* Portfolio Website: [Website](https://imranalmunyeem.github.io/munyeem/)]
+* LinkedIn Profile: [Linkedin](https://www.linkedin.com/in/imran-al-munyeem)]
+* Official Email: [Email](imran.munyeem2025@my.ntu.ac.uk)
 
 I am always interested in collaborating on research, cybersecurity, AI, software testing, and open-source projects.
